@@ -1,5 +1,3 @@
-aiohttp
-apt-clone
 apt-xapian-index==0.47
 apturl==0.5.2
 async-timeout==2.0.0

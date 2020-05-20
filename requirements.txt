@@ -16,7 +16,7 @@ Django==1.11.7
 django-environ==0.4.4
 flake8==3.5.0
 gunicorn==19.7.1
-httplib2==0.9.1
+httplib2==0.18.0
 idna==2.6
 louis==2.6.4
 lxml==3.5.0
